@@ -1,0 +1,3 @@
+/home/nothingholy/CLionProjects/tsisa_03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nothingholy/CLionProjects/tsisa_03/cmake-build-debug/CMakeFiles/tsisa_03.dir
+/home/nothingholy/CLionProjects/tsisa_03/cmake-build-debug/CMakeFiles/edit_cache.dir

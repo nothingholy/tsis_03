@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nothingholy/CLionProjects/tsisa_03/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+cmath
+-
+random
+-
+
